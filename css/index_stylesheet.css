@@ -1,0 +1,106 @@
+.column {
+    float: left;
+    height: 90vh;
+}
+
+.left {
+    width: 50%;
+    height: 90vh;
+}
+
+.right {
+    width: 50%;
+    height: 90vh;
+}
+
+.left_h1 {
+    color: white;
+    margin-left: 10%;
+    font-size: 2vw;
+    margin-top: 2vh;
+    margin-bottom: 1vh;
+}
+
+h4 {
+    margin-top: 1vh;
+    margin-left: 1vw;
+    margin-bottom: 1vh;
+    color: white;
+    font-size: 1vw;
+}
+
+.under_left {
+    margin-left: 1vw;
+    margin-bottom: 1vh;
+    height: 34vh;
+    width: 30%;
+    border-top: solid 1vh rgb(41, 87, 75);
+    border-left: solid 1vh rgb(41, 87, 75);
+    border-bottom: solid 1vh rgb(41, 87, 75);
+}
+
+.under_middle {
+    margin-bottom: 1vh;
+    height: 34vh;
+    width: 30%;
+    border-top: solid 1vh rgb(41, 87, 75);
+    border-right: solid 1vh rgb(41, 87, 75);
+    border-bottom: solid 1vh rgb(41, 87, 75);
+    text-align: center
+}
+
+.under_right {
+    margin-bottom: 1vh;
+    height: 34vh;
+    width: 37%;
+}
+
+li {
+    display: inline;
+}
+
+.right_h1 {
+    text-align: center;
+    margin-right: 2vw;
+    color: white;
+    font-size: 4vw;
+}
+
+
+/* profettionelle projekter*/
+
+
+/*  hygge projekter */
+
+.simpelt_runner_billed_WPF {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+}
+
+.smimpelt_runner_Overskrift {
+    text-align: center;
+    margin-top: 1vh;
+    margin-bottom: 0.5vh;
+    color: white;
+    font-size: 1.5vw;
+}
+
+.simpelt_runner_text {
+    margin-left: 2vw;
+    margin-right: 2vw;
+    margin-top: 1vh;
+    color: white;
+    font-size: 1vw;
+}
+
+.link {
+    color: red;
+}
+
+.Link_p {
+    margin-top: 1vh;
+    margin-left: 2vw;
+    font-size: 1.5vw;
+}
