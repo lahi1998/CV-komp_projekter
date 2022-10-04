@@ -27,7 +27,7 @@
     margin-bottom: 1vh;
     color: white;
     font-size: 1vw;
-    
+
 }
 
 .under_left {
@@ -70,7 +70,7 @@ li {
 
 /* profettionelle projekter*/
 
-.Excel_kalender_overskrift{
+.Excel_kalender_overskrift {
     margin-left: 7vw;
     margin-top: 2vh;
     margin-bottom: 0.5vh;
@@ -86,8 +86,7 @@ li {
     font-size: 1vw;
 }
 
-.Excel_billed
-{
+.Excel_billed {
     margin-left: 2vw;
     margin-right: auto;
     margin-bottom: 1vh;
@@ -95,16 +94,14 @@ li {
     height: 65%;
 }
 
-.Excel_download_text
-{
+.Excel_download_text {
     margin-top: 1vh;
     margin-left: 2vw;
     color: white;
     font-size: 1vw;
 }
 
-.Excel_download_link
-{
+.Excel_download_link {
     margin-left: 2vw;
     margin-bottom: 2vh;
     font-size: 1.2vw;
@@ -138,12 +135,12 @@ li {
     font-size: 1vw;
 }
 
-.link
-{
+.link {
     color: lightblue;
 }
+
 .Link_p {
-    
+
     margin-top: 1vh;
     margin-left: 2vw;
     font-size: 1.2vw;
@@ -160,12 +157,18 @@ li {
     font-size: 1.5vw;
 }
 
-.javascript_Øveside_text {
+.javascript_Øveside_Text {
     margin-left: 2vw;
     margin-right: 2vw;
     margin-top: 1vh;
     color: white;
     font-size: 1vw;
+    text-align: center;
 }
 
-
+.JS-Icon {
+    height: auto;
+    width: 50%;
+    margin-right: 25%;
+    margin-left: 25%;
+}
